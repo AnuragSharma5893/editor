@@ -101,7 +101,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy coding! 🎉
-
---- 
-
-Feel free to customize any part of it, especially the links and any specific details about your project. Let me know if you need any more help!
